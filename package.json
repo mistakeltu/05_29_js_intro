@@ -1,0 +1,17 @@
+{
+  "name": "05_29_js_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "numbers": "nodemon ./js/02-numbers.js",
+    "console": "nodemon 01-console.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Karolis",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
