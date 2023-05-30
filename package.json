@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "05_30_nd": "nodemon ./js/05_30_nd.js",
     "testai": "nodemon ./js/testai.js",
     "string": "nodemon ./js/03-string.js",
     "numbers": "nodemon ./js/02-numbers.js",
