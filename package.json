@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "testai": "nodemon ./js/testai.js",
+    "string": "nodemon ./js/03-string.js",
     "numbers": "nodemon ./js/02-numbers.js",
-    "console": "nodemon 01-console.js",
+    "console": "nodemon ./js/01-console.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
