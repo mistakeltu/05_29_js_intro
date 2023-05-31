@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "import": "nodemon ./js/05-import.js",
     "boolean": "nodemon ./js/04-boolean.js",
     "05_30_nd": "nodemon ./js/05_30_nd.js",
     "testai": "nodemon ./js/testai.js",

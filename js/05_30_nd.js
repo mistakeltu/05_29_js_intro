@@ -28,6 +28,21 @@ const lentelesAtvaizdavimas = '\n\
 
 console.log(lentelesAtvaizdavimas);
 
+const turboLentele = '\n\
+\tDaugybos lentele:\n\
+\t' + a + ' * '+ b + ' = ' + multi1 + '\n\
+\t' + a + ' * '+ c + ' = ' + multi2 + '\n\
+\t' + a + ' * '+ d + ' = ' + multi3 + '\n\
+\t' + a + ' * '+ e + ' = ' + multi4 + '\n\
+\t' + a + ' * '+ f + ' = ' + multi5 + '\n\
+\t' + a + ' * '+ g + ' = ' + multi6 + '\n\
+\t' + a + ' * '+ h + ' = ' + multi7 + '\n\
+\t' + a + ' * '+ i + ' = ' + multi8 + '\n\
+\t' + a + ' * '+ j + ' = ' + multi9 + '\n\
+\t' + a + ' * '+ p + ' = ' + multi10;
+
+console.log(turboLentele);
+
 const a = 8;
 let b = 1;
 let c = 2;
@@ -50,21 +65,6 @@ const multi7 = a * h;
 const multi8 = a * i; 
 const multi9 = a * j; 
 const multi10 = a * p; 
-
-const turboLentele = '\n\
-\tDaugybos lentele:\n\
-\t' + a + ' * '+ b + ' = ' + multi1 + '\n\
-\t' + a + ' * '+ c + ' = ' + multi2 + '\n\
-\t' + a + ' * '+ d + ' = ' + multi3 + '\n\
-\t' + a + ' * '+ e + ' = ' + multi4 + '\n\
-\t' + a + ' * '+ f + ' = ' + multi5 + '\n\
-\t' + a + ' * '+ g + ' = ' + multi6 + '\n\
-\t' + a + ' * '+ h + ' = ' + multi7 + '\n\
-\t' + a + ' * '+ i + ' = ' + multi8 + '\n\
-\t' + a + ' * '+ j + ' = ' + multi9 + '\n\
-\t' + a + ' * '+ p + ' = ' + multi10;
-
-console.log(turboLentele);
 
 const sickLentele = `
         Daugybos lentele:
