@@ -46,3 +46,14 @@ const vardas = 'Karolis';
 console.log(vardas, 7, '>>>>', vardas.length);
 const raide = vardas[2];
 console.log(raide);
+
+
+console.clear();
+
+let kar = 8;
+
+let zaz;
+
+zaz = kar;
+
+console.log(zaz);
